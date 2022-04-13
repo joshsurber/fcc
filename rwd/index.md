@@ -1,1 +1,1 @@
-* [tribute](Tribute page)
+* [Tribute page](tribute)
