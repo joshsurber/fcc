@@ -1,0 +1,22 @@
+{
+  "name": "fcc",
+  "version": "1.0.0",
+  "description": "The various deliverables I create for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshsurber/fcc-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshsurber/fcc-projects/issues"
+  },
+  "homepage": "https://github.com/joshsurber/fcc-projects#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.9"
+  }
+}

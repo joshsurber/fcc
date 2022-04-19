@@ -1,4 +1,29 @@
+:root {
+  --bg: lightgray;
+  fg: darkgray;
+  --pop: orange;
+}
+body{
+    background-color: var(--bg);
+    color: var(--fb);
+}
+#title {
+    text-align:center;
+    font-size:3em;
+}
+#tribute-info {
+  width: min(60ch, 50%);
+  margin: 0 auto;
+}
+figure {
+  width: min(50%, 60ch);
+  margin: 0 auto;
+}
+figcaption {
+  text-align: center;
+}
 img {
-    max-width: 100%;
-    display:block;
+  max-width: 100%;
+  display: block;
+  border: 1px solid black;
 }
